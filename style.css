@@ -1,1 +1,16 @@
-
+/* style.css の内容をここに貼り付け */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 20px;
+}
+/* --- 以下、前のメッセージのCSSコードをすべてコピー --- */
+header {
+    /* ... */
+}
+/* ... 他のスタイル ... */
+footer {
+    /* ... */
+}
